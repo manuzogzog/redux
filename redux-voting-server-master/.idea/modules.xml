@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../redux-voting-client-master/redux-voting-client-master.iml" filepath="$PROJECT_DIR$/../redux-voting-client-master/redux-voting-client-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/redux-voting-server-master.iml" filepath="$PROJECT_DIR$/redux-voting-server-master.iml" />
-    </modules>
-  </component>
-</project>
